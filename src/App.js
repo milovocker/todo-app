@@ -62,8 +62,8 @@ export default function TodoApp() {
       <div className="content-wrapper">
         {/* Header */}
         <div className="header">
-          <h1>Mi To-Do List</h1>
-          <p>Organiza tus tareas de forma simple</p>
+          <h1>Tu lista de tareas personal</h1>
+          <p>Organizalas de forma simple!</p>
         </div>
 
         {/* Stats */}
