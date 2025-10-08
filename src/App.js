@@ -160,7 +160,7 @@ export default function TodoApp() {
           <div className="clear-completed-container">
             <button onClick={clearCompleted} className="clear-completed-button">
               <X size={18} />
-              Eliminar completadas ({completedCount})
+              Eliminar tareas completadas ({completedCount})
             </button>
           </div>
         )}
